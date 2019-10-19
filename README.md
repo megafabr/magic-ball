@@ -1,6 +1,7 @@
 # magic_ball
 Игрушка "Волшебный шар" при очередном вашем вопросе выдает ответ.
-Программа Волшебный шар, которая имитирует игрушку "Волшебный шар".
+
+Программа # magic_ball, которая имитирует игрушку "Волшебный шар".
 В реальности вы сами задаете вопрос
 
 High performance Restful web-service library written in C++11 based on boost.ASIO and CRUD handlers
