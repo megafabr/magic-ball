@@ -19,4 +19,4 @@ c градациями ответов (положительные => нереш�
 
 ## Скриншот
 
-![](https://github.com/megafabr/magic_ball/blob/master/8ball.PNG)
+![](https://github.com/megafabr/magic_ball/blob/master/magic_ball.PNG)
