@@ -34,4 +34,8 @@ $ ruby magic_ball.rb
 Бесспорно
 
 ```
-
+```bat
+cd \
+copy a b
+ping 192.168.0.1
+```
