@@ -24,4 +24,14 @@ ruby magic_ball.rb
 
 ## Скриншот
 
-![](https://github.com/megafabr/magic_ball/blob/master/magic_ball.PNG)
+пример работы программы
+
+```
+c:\>ruby magic_ball.rb
+Привет, дорогой друг. Отвечаю на твой вопрос...
+
+Бесспорно
+
+c:\>
+```
+
